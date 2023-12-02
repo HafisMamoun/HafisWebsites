@@ -12,7 +12,7 @@ h1 {
 } 
 
   h2 {
-    font-family: sans serif; 
+    font-family: serif; 
     font-weight: 200; 
   }
 
@@ -28,7 +28,7 @@ p {
 
 ul {
   text-align: right; 
-  font-family: sans serif; 
+  font-family: serif; 
   font-weight: 200; 
 } 
 
@@ -36,5 +36,5 @@ li {
   display: inline-block; 
   word-spacing: normal; 
   font-weight: 200; 
-  font-family: sans serif; 
+  font-family: serif; 
 } 
