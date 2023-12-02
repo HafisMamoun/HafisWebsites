@@ -1,0 +1,40 @@
+body {
+  background-color: grey; 
+  color: white; 
+  letter-space: 0.4em; 
+  font-size: 1.4em; 
+  word-spacing: 1.0em;  
+} 
+
+h1 {
+  font-weight: 200; 
+  font-family: serif; 
+} 
+
+  h2 {
+    font-family: sans serif; 
+    font-weight: 200; 
+  }
+
+h3 {
+  font-family: sans serif; 
+  font-weight: 200; 
+}
+
+p {
+  font-family: sans serif; 
+  font-weight: 200; 
+}
+
+ul {
+  text-align: right; 
+  font-family: sans serif; 
+  font-weight: 200; 
+} 
+
+li {
+  display: inline-block; 
+  word-spacing: normal; 
+  font-weight: 200; 
+  font-family: sans serif; 
+} 
